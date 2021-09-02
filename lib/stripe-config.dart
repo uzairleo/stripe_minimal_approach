@@ -1,0 +1,4 @@
+const stripePublishableKey =
+    "pk_test_51JUetkCNE4qNqI02AfE5RmLueStv50CAMfn2ydIgFTgauMGeSGd9OKIkQa1sRH6o57S3VrR9sEq9YsO3uDxlNuci00AW1qdDne";
+const clientSecret =
+    "pk_test_51JUetkCNE4qNqI02AfE5RmLueStv50CAMfn2ydIgFTgauMGeSGd9OKIkQa1sRH6o57S3VrR9sEq9YsO3uDxlNuci00AW1qdDne";
